@@ -31,7 +31,7 @@ piedrapapelotijera/
 │   ├── main.cpp
 │   └── historial_partidas.txt
 ├── docs/
-│   ├── InformeEEST1_LPR2026_ACT07_G03_[ApellidoNombre]_Informe_v1.0.0.pdf
+│   ├── InformeEEST1_LPR2026_ACT07_G03_[ApellidoNombre]_Informe_v1.0.0.pdf (REVISAR)
 │   ├── CHANGELOG.md
 │   └── manuales/
 │       ├── manual_programador_v1.0.0.md
@@ -69,13 +69,13 @@ Guardá capturas reales de tu ejecución en la carpeta `capturas/`:
 
 No incluyas capturas inventadas: ejecutá el programa y tomalas desde tu computadora.
 
-## Documentación
+## Documentación (COMLETAR CON LOS INFORMACIÓN CORRESPONDIENTES)
 
 - Informe académico: `docs/InformeEEST1_LPR2026_ACT07_G03_[ApellidoNombre]_Informe_v1.0.0.pdf`.
 - Manual del programador y manual del usuario: carpeta `docs/manuales/`.
 - Historial de cambios: `docs/CHANGELOG.md`.
 
-## Repositorios remotos
+## Repositorios remotos (COMLETAR CON LOS REPOSITORIOS CORRESPONDIENTES)
 
 - GitHub: [pegar URL pública del repositorio]
 - GitLab: [pegar URL pública del repositorio]
